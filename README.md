@@ -118,12 +118,14 @@ _tab.BuyAtLimit(volume, entry + slippage);
 
 ---
 
-## Лицензия
 
-MIT
+## Автор
+
+Разработано трейдером **SidorenkoVA** — [__https://t.me/si0683__](https://t.me/si0683)
 
 ---
 
 ## Теги
 
 `osengine` `trading-robot` `algorithmic-trading` `quant` `template` `bot` `csharp` `dotnet` `moex` `crypto` `spot` `futures` `stocks` `bonds` `volume-calculation` `deposit-percent` `leverage` `no-stop` `trading-bot` `robot-template`
+
