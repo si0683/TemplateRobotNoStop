@@ -6,6 +6,12 @@
 
 ---
 
+## Связанные шаблоны
+
+- [TemplateRobotSL](https://github.com/si0683/osengine-trading-robot-template-sl) — версия с расчётом объёма через риск % и автоматическим стоп-лоссом
+
+---
+
 ## Отличие от TemplateRobotSL
 
 | | TemplateRobotSL | TemplateRobotNoStop |
